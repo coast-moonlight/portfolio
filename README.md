@@ -1,56 +1,66 @@
 # Basil Ugbomoiko — Portfolio Website
 
-This is my personal portfolio website, built using pure HTML and CSS, and hosted with GitHub Pages.
-
-It showcases my work in web design, UI/UX, and information security, and includes details about my background, key projects, resume, and contact information.
+Welcome to my personal portfolio — a minimalist, responsive website built with **HTML5** and **CSS3**, designed to showcase my journey in **information security**, **research**, and **technology**. It includes my background, projects, resume, and contact information — all in one place.
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio Website](https://coast-moonlight.github.io/portfolio)
+🔗 [View Live Portfolio](https://coast-moonlight.github.io/portfolio)
 
 ---
 
 ## 📁 Project Structure
-basil-portfolio/
+
+```markdown
+portfolio/
 ├── index.html              # Home page
-├── about.html              # About Me page
-├── projects.html           # Projects showcase
-├── resume.html             # Resume / CV page
-├── contact.html            # Contact page
-├── style.css               # Site-wide CSS stylesheet
-├── Basil_Ugbomoiko_CV.pdf  # Downloadable resume (PDF)
-└── images/                 # Folder for images, icons, and logos
+├── about.html              # About Me section
+├── projects.html           # Projects and research
+├── resume.html             # Resume/CV page
+├── contact.html            # Contact form / info
+├── style.css               # Main site stylesheet
+├── script.js               # JS for interactivity (e.g. dark mode)
+├── Basil_Ugbomoiko_CV.pdf  # Downloadable CV
+└── images/                 # Icons, logos, photos
+```
+
 ---
 
 ## 🚀 Features
 
-- Fully responsive layout
-- Clean and modern UI
-- Project showcase section
-- Downloadable resume
-- Hosted with GitHub Pages
+- ✅ Clean, responsive design for desktop & mobile
+- ✅ Section-based layout: About, Projects, Resume, Contact
+- ✅ Dark mode toggle 🌗
+- ✅ Downloadable PDF CV
+- ✅ Hosted via GitHub Pages
 
 ---
 
 ## 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- GitHub Pages (for hosting)
+- **HTML5** — Semantic markup
+- **CSS3** — Responsive layout and design
+- **JavaScript (vanilla)** — For theme toggle and interactivity
+- **GitHub Pages** — Static hosting
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [Basil.Ugbomoiko@gmx.de](mailto:Basil.Ugbomoiko@gmx.de)
-- 🌍 GitHub: [github.com/coast-moonlight](https://github.com/coast-moonlight)
+Feel free to reach out for collaborations, questions, or opportunities.
+
+- 📧 Email: [Basil.Ugbomoiko@gmx.de](mailto:Basil.Ugbomoiko@gmx.de)  
+- 🌐 GitHub: [@coast-moonlight](https://github.com/coast-moonlight)  
+- 📄 [Download CV (PDF)](CV_1.pdf)
 
 ---
 
-## 📌 License
+## 📄 License
 
-This project is for personal use and learning purposes. Feel free to explore or fork.
+This project is open for learning and inspiration. Please give credit if you use or adapt anything.
 
 ---
+
+> "Security isn't just about systems — it's about people, purpose, and precision."  
+> — Basil Ugbomoiko
