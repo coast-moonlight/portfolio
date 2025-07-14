@@ -18,6 +18,7 @@ body {
   color: var(--text);
   margin: 0;
   line-height: 1.7;
+    font-family: 'Poppins', sans-serif;
 }
 
 .container {
@@ -92,20 +93,33 @@ nav a:hover {
 
 /* Sections */
 section {
-  background: var(--foreground);
-  margin: 2rem 0;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
+  background: white;
+  margin: 2rem auto;
+  padding: 1.5rem 2rem;
+  max-width: 900px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-  font-size: 1.8rem;
-  color: var(--primary);
+  font-weight: 700;
+  color: #1e90ff;
+  position: relative;
+  padding-bottom: 0.3rem;
   margin-bottom: 1rem;
-  border-bottom: 2px solid #dceef3;
-  padding-bottom: 0.5rem;
 }
+
+h2::after {
+  content: '';
+  position: absolute;
+  width: 60px;
+  height: 3px;
+  background-color: #1e90ff;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+}
+
 
 /* Timeline & Lists */
 ul.timeline, section ul {
@@ -185,4 +199,27 @@ body.dark section {
 body.dark nav a,
 body.dark #theme-toggle {
   color: white;
+}
+
+a {
+  color: #1e90ff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+button, .btn {
+  background-color: #1e90ff;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+button:hover, .btn:hover {
+  background-color: #0056b3;
 }
