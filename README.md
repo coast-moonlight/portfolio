@@ -21,7 +21,6 @@ portfolio/
 ├── contact.html            # Contact form / info
 ├── style.css               # Main site stylesheet
 ├── script.js               # JS for interactivity (e.g. dark mode)
-├── Basil_Ugbomoiko_CV.pdf  # Downloadable CV
 └── images/                 # Icons, logos, photos
 ```
 
@@ -32,7 +31,6 @@ portfolio/
 - ✅ Clean, responsive design for desktop & mobile
 - ✅ Section-based layout: About, Projects, Resume, Contact
 - ✅ Dark mode toggle 🌗
-- ✅ Downloadable PDF CV
 - ✅ Hosted via GitHub Pages
 
 ---
@@ -52,8 +50,6 @@ Feel free to reach out for collaborations, questions, or opportunities.
 
 - 📧 Email: [Basil.Ugbomoiko@gmx.de](mailto:Basil.Ugbomoiko@gmx.de)  
 - 🌐 GitHub: [@coast-moonlight](https://github.com/coast-moonlight)  
-- 📄 [Download CV (PDF)](CV_1.pdf)
-
 ---
 
 ## 📄 License
