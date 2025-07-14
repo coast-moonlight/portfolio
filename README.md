@@ -15,23 +15,21 @@ Welcome to my personal portfolio — a minimalist, responsive website built with
 ```markdown
 portfolio/
 ├── index.html              # Home page
-├── about.html              # About Me section
-├── projects.html           # Projects and research
-├── resume.html             # Resume/CV page
-├── contact.html            # Contact form / info
+  ├── about.html            # About Me section
+  ├── projects.html         # Projects and research
+  ├── resume.html           # Resume/CV page
+  ├── contact.html          # Contact form / info
 ├── style.css               # Main site stylesheet
-├── script.js               # JS for interactivity (e.g. dark mode)
-└── images/                 # Icons, logos, photos
+└── script.js               # JS for interactivity (e.g. dark mode)
 ```
-
 ---
 
 ## 🚀 Features
 
-- ✅ Clean, responsive design for desktop & mobile
-- ✅ Section-based layout: About, Projects, Resume, Contact
-- ✅ Dark mode toggle 🌗
-- ✅ Hosted via GitHub Pages
+- Clean, responsive design for desktop & mobile
+- Section-based layout: About, Projects, Resume, Contact
+- Dark mode toggle
+- Hosted via GitHub Pages
 
 ---
 
